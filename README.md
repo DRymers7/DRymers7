@@ -9,7 +9,7 @@ Some notes about me:
 - I always appreciate feedback on the code I write!
 
 Anytime that you'd like to reach me you can find me here!
-- <a target="_blank" href="https://www.linkedin.com/in/drymers7/" alt="LinkedIn">
+- [LinkedIn](https://www.linkedin.com/in/drymers7/)
 - Subsequently, always feel free to drop a note to me via Github!
   
 <!--
