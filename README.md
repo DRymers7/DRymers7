@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hello! My name is Derek. 👋
 
+I'm an entrepreneur that dove headfirst into the world of data science and is committed to daily growth. 
+
+Some notes about me:
+- I'm currently working on multiple projects and learning how to use Hadoop.
+- I'm **always** looking for great projects to contribute to for my resume.
+- I'm always open to learning how to do things more effeciently.
+- I always appreciate feedback on the code I write!
+
+Anytime that you'd like to reach me you can find me here!
+- <a target="_blank" href="https://www.linkedin.com/in/drymers7/" alt="LinkedIn">
+- Subsequently, always feel free to drop a note to me via Github!
+  
 <!--
 **DRymers7/DRymers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
