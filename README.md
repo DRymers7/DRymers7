@@ -4,7 +4,7 @@ I'm an entrepreneur that dove headfirst into the world of data science and is co
 
 Some notes about me:
 - I'm currently working on multiple projects and learning how to use Hadoop.
-- I'm **always** looking for great projects to contribute to for my resume.
+- I'm **always** looking for great projects to contribute to.
 - I'm always open to learning how to do things more effeciently.
 - I always appreciate feedback on the code I write!
 
