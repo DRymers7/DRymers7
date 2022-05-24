@@ -3,7 +3,7 @@
 I'm an entrepreneur that dove headfirst into the world of data science and is committed to daily growth. 
 
 Some notes about me:
-- I'm currently working on multiple projects and learning how to use Hadoop.
+- I'm currently working on multiple projects and diving into reinforcement learning.
 - I'm **always** looking for great projects to contribute to.
 - I'm always open to learning how to do things more effeciently.
 - I always appreciate feedback on the code I write!
