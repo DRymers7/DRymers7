@@ -1,12 +1,11 @@
 ### Hello! My name is Derek. 👋
 
-I'm an entrepreneur that dove headfirst into the world of data science and is committed to daily growth. 
+I am currently a Tech Elevator Java Bootcamp student and am committed to daily growth. 
 
 Some notes about me:
-- I'm currently working on multiple projects and diving into reinforcement learning.
-- I'm **always** looking for great projects to contribute to.
-- I'm always open to learning how to do things more effeciently.
-- I always appreciate feedback on the code I write!
+- I am a former entrepreneur and data scientist, getting into development.
+- I am learning various languages, including Java and JavaScript.
+- I am learning various frameworks, including React, Spring Boot, etc.
 
 Anytime that you'd like to reach me you can find me here!
 - [LinkedIn](https://www.linkedin.com/in/drymers7/)
