@@ -3,7 +3,7 @@
 I am currently a Tech Elevator Java Bootcamp student and am committed to daily growth. 
 
 Some notes about me:
-- I am a former entrepreneur and data scientist, getting into development.
+- I am an entrepreneur and software developer.
 - I am learning various languages, including Java and JavaScript.
 - I am learning various frameworks, including React, Spring Boot, etc.
 
