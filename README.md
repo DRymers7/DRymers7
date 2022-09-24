@@ -9,7 +9,6 @@ Some notes about me:
 
 Anytime that you'd like to reach me you can find me here!
 - [LinkedIn](https://www.linkedin.com/in/drymers7/)
-- Otherwise, always feel free to drop a note to me via Github!
   
 <!--
 **DRymers7/DRymers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
