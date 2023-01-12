@@ -15,7 +15,12 @@ Anytime that you'd like to reach me you can find me here!
 
 If you would like to view the progress of any of my current projects, please reach out!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRymers7)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRymers7&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRymers7a&repo=convoychat" />
+</a>
   
 <!--
 **DRymers7/DRymers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
