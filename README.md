@@ -1,4 +1,4 @@
-### Hello! My name is Derek. 👋
+## Hello! My name is Derek Rymers.
 
 I subscribe to the philosophy of embracing curiosity.
 
