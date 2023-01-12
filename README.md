@@ -14,6 +14,8 @@ Anytime that you'd like to reach me you can find me here!
 - [LinkedIn](https://www.linkedin.com/in/derek-rymers/)
 
 If you would like to view the progress of any of my current projects, please reach out!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRymers7)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **DRymers7/DRymers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
