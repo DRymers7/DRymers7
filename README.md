@@ -15,7 +15,7 @@ Anytime that you'd like to reach me you can find me here!
 
 If you would like to view the progress of any of my current projects, please reach out!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRymers7&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRymers7&show_icons=true&theme=onedark)
 <!--
 **DRymers7/DRymers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
