@@ -70,6 +70,7 @@ Trained a **neural network to detect credit card fraud**, achieving **94.38% acc
 ---
 
 ## **📊 GitHub Stats**  
+Note: Most of my recent contributions are on Bitbucket, as my current work at JP Morgan Chase uses it as the primary VCS. My GitHub primarily showcases personal projects, open-source contributions, and experimental research in security automation, distributed systems, and cloud infrastructure.
 
 <table>
   <tr>
