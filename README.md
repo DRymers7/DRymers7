@@ -1,31 +1,110 @@
-## Hello! My name is Derek Rymers.
+# **👋 Hey, I'm Derek!**  
+🚀 **Software Engineer | Security Enthusiast | Systems Architect**  
 
-I subscribe to the philosophy of embracing curiosity.
+I'm a software engineer with a passion for **building secure, high-performance systems** and solving complex technical challenges. My journey into tech wasn’t exactly traditional—I’m **part self-taught, part formally trained, and 100% driven by curiosity and a love for building cool things.**  
 
-Whether it be breaking down business problems into different components that could be solved with data analysis and inferential statistics, or deciphering the illusion surrounding the software structure of an application that does not yet exist, I always find myself investigating new ways to satiate my curiosity. 
+---
 
-This philosophy led me down a path to learn about data science, machine learning, and finally software development, and the eclectic tools and languages that build the technological infrastructure of our society. 
+## **💡 What I Do**  
+🔹 **System Design & Security** – I optimize **cloud infrastructure**, enhance **authentication protocols**, and build **scalable microservices**.  
+🔹 **AI & Automation** – I’ve built **AI-driven applications, cybersecurity tools, and distributed systems** that push the boundaries of what’s possible.  
+🔹 **Full-Stack Engineering** – I work across the **entire tech stack**, from backend systems to front-end interfaces.  
+🔹 **Mentorship & Collaboration** – I love **mentoring engineers**, implementing **best practices**, and **building high-performing teams**.  
 
-Pursuing a career in software development has led me to study at Tech Elevator, learning about full-stack development, agile methodology, and numerous other technical skills that have helped me jumpstart my career transition. Combined with my prior experience, I have discovered a capacity to bring a unique, data-driven perspective to teams, along with a robust technical skillset and the drive to not only operate in a fast-paced startup environment, but to elevate the efforts of those around me as well. 
+---
 
-Now, I am looking for an opportunity to bring the skills I have learned through my professional career to a new team, to both construct and optimize the product, but also educate, advocate for and motivate those who are committed to the shared vision.
+## **🏢 Where I've Been**  
+🔹 **JP Morgan Chase** – Building secure and performant applications for **One Chase Service** to improve consumer banking.  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Cut AWS costs by 28.32%** by migrating infrastructure from EKS to ECS.  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Resolved Axon Kafka defects** that were causing $2.1M in annual revenue loss.  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Redesigned microservices** for consumer home loans & credit card document processing.  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Replaced x509 authentication** with **Kerberos**, reducing build times & improving security.  
 
-Anytime that you'd like to reach me you can find me here!
-- [LinkedIn](https://www.linkedin.com/in/derek-rymers/)
+🔹 **Co-Founder @ OhGoody** – Built **AI-powered marketing tools** and seamless e-commerce solutions for artisans.  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Reduced AWS costs by 20.67%** by optimizing EC2 & Lambda usage.  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Led full-stack engineering efforts**, including infrastructure, AI models & B2B marketing automation.  
 
-If you would like to view the progress of any of my current projects, please reach out!
+🔹 **Education:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 **Georgia Tech (M.S. Computer Science, Computing Systems)** – **Current**  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 **Tech Elevator (Technical Bootcamp, Full-Stack Development)**  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 **John Carroll University (B.S. Psychology & Data Science)**  
 
-<!--
-**DRymers7/DRymers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## **🔧 Technologies I Work With**  
+🛠️ **Languages:** Go, Rust, Python, Java, C#, C++, JavaScript, TypeScript, SQL, Bash  
+🛠️ **Backend:** Spring Boot, .NET, Axon Kafka, gRPC  
+🛠️ **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform, Apache Kafka, Spinnaker, EKS  
+🛠️ **Security & Networking:** Cybersecurity tools, Network Algorithms, Web3  
+🛠️ **Databases:** PostgreSQL, Redis, Amazon RDS, AWS Aurora, AWS S3  
+🛠️ **ML/AI:** PyTorch, TensorFlow, CNNs, RNNs, Dimensionality Reduction  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **🚀 Featured Projects**  
+
+### **🔒 Automated Pen-Test Suite**  
+A **microservice-based security testing platform** leveraging **reinforcement learning** to generate automated attack paths.  
+🛠 **Tech:** Go, Rust, Python, Kubernetes, AWS, Docker, gRPC, Terraform, Redis, PostgreSQL, Nmap, Metasploit, OpenVAS  
+📌 **Key Features:**  
+✅ **Zero-trust architecture** with a service mesh.  
+✅ **Containerized attack tools** (Kali-based) and **C2 infrastructure**.  
+✅ **AWS EKS deployment** for scalable offensive security testing.  
+
+---
+
+### **🌐 Spanning-Tree Implementation**  
+Built a **distributed Spanning Tree Protocol (STP) algorithm** for dynamic network topology creation.  
+🛠 **Tech:** Python, Distributed Systems, Networking Algorithms  
+📌 **Key Features:**  
+✅ **99.99% accuracy** in forming loop-free Layer 2 networks.  
+✅ **Handles dynamic node failures & topology changes in real time.**  
+✅ **Message-passing logic** for optimized path discovery.  
+
+---
+
+### **⚡ Cache Coherence MOESI Protocol Implementation**  
+Simulated a **multi-core processor** implementing **MOESI cache coherence** in SESC.  
+🛠 **Tech:** C++, SESC Simulator, Computer Architecture  
+📌 **Key Features:**  
+✅ **Ensured full cache coherence** across multiple CPU cores.  
+✅ **Achieved 100% accuracy** in expected cache hits/misses.  
+✅ **Simulated and benchmarked against real workloads.**  
+
+---
+
+### **💳 AI-Powered Fraud Detection**  
+Trained a **neural network to detect credit card fraud**, achieving **94.38% accuracy** on real-world consumer data.  
+🛠 **Tech:** Python, TensorFlow, Machine Learning, Data Science  
+📌 **Key Features:**  
+✅ **Analyzed scrubbed financial transaction data.**  
+✅ **Optimized feature selection** for anomaly detection.  
+✅ **Deployed deep learning model for real-world fraud detection.**  
+
+---
+
+## **📊 GitHub Stats**  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DRymers7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DRymers7&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=DRymers7&theme=github-dark)  
+
+---
+
+## **📬 Let's Connect!**  
+📌 **Website:** [derekrymers.com](#)  
+📌 **LinkedIn:** [linkedin.com/in/derek-rymers](https://www.linkedin.com/in/derek-rymers/)  
+📌 **GitHub:** **You're already here! 😉**  
+
+---
+
+### **"If you're into solving hard problems, optimizing systems, or just geeking out over tech, let's connect!"** 
