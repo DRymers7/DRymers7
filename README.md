@@ -3,8 +3,6 @@
 
 I'm a software engineer with a passion for **building secure, high-performance systems** and solving complex technical challenges. My journey into tech wasn’t exactly traditional—I’m **part self-taught, part formally trained, and 100% driven by curiosity and a love for building cool things.**  
 
----
-
 ## **💡 What I Do**  
 🔹 **Full-Stack Engineering** – I work across the entire tech stack, in any language and framework.  
 🔹 **System Design & Security** – I optimize cloud infrastructure, enhance authentication protocols, and build scalable microservices.  
