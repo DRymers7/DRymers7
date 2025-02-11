@@ -3,15 +3,11 @@
 
 I'm a software engineer with a passion for **building secure, high-performance systems** and solving complex technical challenges. My journey into tech wasn’t exactly traditional—I’m **part self-taught, part formally trained, and 100% driven by curiosity and a love for building cool things.**  
 
----
-
 ## **💡 What I Do**  
 🔹 **System Design & Security** – I optimize **cloud infrastructure**, enhance **authentication protocols**, and build **scalable microservices**.  
-🔹 **AI & Automation** – I’ve built **AI-driven applications, cybersecurity tools, and distributed systems** that push the boundaries of what’s possible.  
-🔹 **Full-Stack Engineering** – I work across the **entire tech stack**, from backend systems to front-end interfaces.  
-🔹 **Mentorship & Collaboration** – I love **mentoring engineers**, implementing **best practices**, and **building high-performing teams**.  
-
----
+🔹 **AI & Automation** – I’ve built **AI-driven applications, cybersecurity tools, and distributed systems**.
+🔹 **Full-Stack Engineering** – I work across the **entire tech stack**, in any language and framework.  
+🔹 **Mentorship & Collaboration** – I love **mentoring engineers**, implementing **best practices**, and **contributing to high-performing teams**.  
 
 ## **🏢 Where I've Been**  
 🔹 **JP Morgan Chase** – Building secure and performant applications for **One Chase Service** to improve consumer banking.  
@@ -29,8 +25,6 @@ I'm a software engineer with a passion for **building secure, high-performance s
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 **Tech Elevator (Technical Bootcamp, Full-Stack Development)**  
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 **John Carroll University (B.S. Psychology & Data Science)**  
 
----
-
 ## **🔧 Technologies I Work With**  
 🛠️ **Languages:** Go, Rust, Python, Java, C#, C++, JavaScript, TypeScript, SQL, Bash  
 🛠️ **Backend:** Spring Boot, .NET, Axon Kafka, gRPC  
@@ -38,8 +32,6 @@ I'm a software engineer with a passion for **building secure, high-performance s
 🛠️ **Security & Networking:** Cybersecurity tools, Network Algorithms, Web3  
 🛠️ **Databases:** PostgreSQL, Redis, Amazon RDS, AWS Aurora, AWS S3  
 🛠️ **ML/AI:** PyTorch, TensorFlow, CNNs, RNNs, Dimensionality Reduction  
-
----
 
 ## **🚀 Featured Projects**  
 
@@ -51,8 +43,6 @@ A **microservice-based security testing platform** leveraging **reinforcement le
 ✅ **Containerized attack tools** (Kali-based) and **C2 infrastructure**.  
 ✅ **AWS EKS deployment** for scalable offensive security testing.  
 
----
-
 ### **🌐 Spanning-Tree Implementation**  
 Built a **distributed Spanning Tree Protocol (STP) algorithm** for dynamic network topology creation.  
 🛠 **Tech:** Python, Distributed Systems, Networking Algorithms  
@@ -61,8 +51,6 @@ Built a **distributed Spanning Tree Protocol (STP) algorithm** for dynamic netwo
 ✅ **Handles dynamic node failures & topology changes in real time.**  
 ✅ **Message-passing logic** for optimized path discovery.  
 
----
-
 ### **⚡ Cache Coherence MOESI Protocol Implementation**  
 Simulated a **multi-core processor** implementing **MOESI cache coherence** in SESC.  
 🛠 **Tech:** C++, SESC Simulator, Computer Architecture  
@@ -70,8 +58,6 @@ Simulated a **multi-core processor** implementing **MOESI cache coherence** in S
 ✅ **Ensured full cache coherence** across multiple CPU cores.  
 ✅ **Achieved 100% accuracy** in expected cache hits/misses.  
 ✅ **Simulated and benchmarked against real workloads.**  
-
----
 
 ### **💳 AI-Powered Fraud Detection**  
 Trained a **neural network to detect credit card fraud**, achieving **94.38% accuracy** on real-world consumer data.  
