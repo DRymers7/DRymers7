@@ -9,8 +9,6 @@ I'm a software engineer with a passion for **building secure, high-performance s
 🔹 **AI & Automation** – I’ve built AI-driven applications, cybersecurity tools, and distributed systems.  
 🔹 **Mentorship & Collaboration** – I love mentoring engineers, implementing best practices, and contributing to high-performing teams.  
 
----
-
 ## **🏢 Where I've Been**  
 🔹 **JP Morgan Chase** – Building secure and performant applications for **One Chase Service** to improve consumer banking.  
 &nbsp;&nbsp;&nbsp;&nbsp;• **Cut AWS costs by 28.32%** by migrating infrastructure from EKS to ECS.  
