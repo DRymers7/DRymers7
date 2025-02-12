@@ -94,4 +94,4 @@ Note: Most of my recent contributions are on Bitbucket, as my current work at JP
 
 ---
 
-### **"If you're into solving hard problems, optimizing systems, or just geeking out over tech, let's connect!"** 
+### **If you're into solving hard problems, optimizing systems, or just geeking out over tech, let's connect!** 
