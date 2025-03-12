@@ -88,7 +88,7 @@ Note: Most of my recent contributions are on Bitbucket, as my current work at JP
 ---
 
 ## **📬 Let's Connect!**  
-📌 **Website:** [derekrymers.com](#)  
+📌 **Website:** [derekrymers.dev](https://derekrymers.dev/)  
 📌 **LinkedIn:** [linkedin.com/in/derek-rymers](https://www.linkedin.com/in/derek-rymers/)  
 📌 **GitHub:** **You're already here! 😉**  
 
