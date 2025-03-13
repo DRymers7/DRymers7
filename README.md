@@ -1,5 +1,5 @@
 # **👋 Hey, I'm Derek!**  
-🚀 **Software Engineer | Security Enthusiast | Systems Architect**  
+**Software Engineer | Security Enthusiast | Systems Architect**  
 
 I'm a software engineer with a passion for **building secure, high-performance systems** and solving complex technical challenges. My journey into tech wasn’t exactly traditional—I’m **part self-taught, part formally trained, and 100% driven by curiosity and a love for building cool things.**  
 
@@ -25,7 +25,7 @@ I'm a software engineer with a passion for **building secure, high-performance s
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 **Tech Elevator (Technical Bootcamp, Full-Stack Development)**  
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 **John Carroll University (B.S. Psychology & Data Science)**  
 
-## **🔧 Technologies I Work With**  
+## **Technologies I Work With**  
 🛠️ **Languages:** Go, Rust, Python, Java, C#, C++, JavaScript, TypeScript, SQL, Bash  
 🛠️ **Backend:** Spring Boot, .NET, Axon Kafka, gRPC  
 🛠️ **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform, Apache Kafka, Spinnaker, EKS  
@@ -33,12 +33,12 @@ I'm a software engineer with a passion for **building secure, high-performance s
 🛠️ **Databases:** PostgreSQL, Redis, Amazon RDS, AWS Aurora, AWS S3  
 🛠️ **ML/AI:** PyTorch, TensorFlow, CNNs, RNNs, Dimensionality Reduction  
 
-## **🚀 Featured Projects**  
+## **Featured Projects**  
 
 ### **🔒 Automated Pen-Test Suite**  
 A **microservice-based security testing platform** leveraging **reinforcement learning** to generate automated attack paths.  
 🛠 **Tech:** Go, Rust, Python, Kubernetes, AWS, Docker, gRPC, Terraform, Redis, PostgreSQL, Nmap, Metasploit, OpenVAS  
-📌 **Key Features:**  
+**Key Features:**  
 ✅ **Zero-trust architecture** with a service mesh.  
 ✅ **Containerized attack tools** (Kali-based) and **C2 infrastructure**.  
 ✅ **AWS EKS deployment** for scalable offensive security testing.  
@@ -46,7 +46,7 @@ A **microservice-based security testing platform** leveraging **reinforcement le
 ### **🌐 Spanning-Tree Implementation**  
 Built a **distributed Spanning Tree Protocol (STP) algorithm** for dynamic network topology creation.  
 🛠 **Tech:** Python, Distributed Systems, Networking Algorithms  
-📌 **Key Features:**  
+**Key Features:**  
 ✅ **99.99% accuracy** in forming loop-free Layer 2 networks.  
 ✅ **Handles dynamic node failures & topology changes in real time.**  
 ✅ **Message-passing logic** for optimized path discovery.  
@@ -54,7 +54,7 @@ Built a **distributed Spanning Tree Protocol (STP) algorithm** for dynamic netwo
 ### **⚡ Cache Coherence MOESI Protocol Implementation**  
 Simulated a **multi-core processor** implementing **MOESI cache coherence** in SESC.  
 🛠 **Tech:** C++, SESC Simulator, Computer Architecture  
-📌 **Key Features:**  
+**Key Features:**  
 ✅ **Ensured full cache coherence** across multiple CPU cores.  
 ✅ **Achieved 100% accuracy** in expected cache hits/misses.  
 ✅ **Simulated and benchmarked against real workloads.**  
@@ -62,7 +62,7 @@ Simulated a **multi-core processor** implementing **MOESI cache coherence** in S
 ### **💳 AI-Powered Fraud Detection**  
 Trained a **neural network to detect credit card fraud**, achieving **94.38% accuracy** on real-world consumer data.  
 🛠 **Tech:** Python, TensorFlow, Machine Learning, Data Science  
-📌 **Key Features:**  
+**Key Features:**  
 ✅ **Analyzed scrubbed financial transaction data.**  
 ✅ **Optimized feature selection** for anomaly detection.  
 ✅ **Deployed deep learning model for real-world fraud detection.**  
@@ -90,7 +90,7 @@ Note: Most of my recent contributions are on Bitbucket, as my current work at JP
 ## **📬 Let's Connect!**  
 📌 **Website:** [derekrymers.dev](https://derekrymers.dev/)  
 📌 **LinkedIn:** [linkedin.com/in/derek-rymers](https://www.linkedin.com/in/derek-rymers/)  
-📌 **GitHub:** **You're already here! 😉**  
+📌 **GitHub:** **You're already here!**  
 
 ---
 
