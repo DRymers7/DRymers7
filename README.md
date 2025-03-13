@@ -35,7 +35,7 @@ I'm a software engineer with a passion for **building secure, high-performance s
 
 ## **Featured Projects**  
 
-### **🔒 Automated Pen-Test Suite**  
+### **🔒 Project AOM**  
 A **microservice-based security testing platform** leveraging **reinforcement learning** to generate automated attack paths.  
 🛠 **Tech:** Go, Rust, Python, Kubernetes, AWS, Docker, gRPC, Terraform, Redis, PostgreSQL, Nmap, Metasploit, OpenVAS  
 **Key Features:**  
